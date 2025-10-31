@@ -1,11 +1,6 @@
-tensorflow
-keras
-numpy
-pandas
-matplotlib
-seaborn
-nltk
-scikit-learn
-kagglehub
 streamlit
-
+scikit-learn
+pandas
+numpy
+nltk
+joblib
